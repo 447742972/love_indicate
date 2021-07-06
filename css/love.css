@@ -2,6 +2,7 @@
 *{
 	margin:0;
 	padding:0;
+	background-image:url("../img/bk.png")no-repeat ;
 }
 body{
 	max-width: 100%;
@@ -14,11 +15,10 @@ body{
 	position: absolute;
 	margin-left: auto;
 	margin-right: auto;
-	background-image:url("../img/bk.png")no-repeat ;
-img{
-    max-widght:100%;
 }
-
+img{
+	max-width:100%;
+}
 li{
 	list-style: none;
 }
