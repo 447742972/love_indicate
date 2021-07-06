@@ -15,8 +15,6 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 	background-image:url("../img/bk.png")no-repeat ;
-	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(url="../img/bk.png",sizingMethod='scale');
-}
 
 li{
 	list-style: none;
