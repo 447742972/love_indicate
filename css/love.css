@@ -15,6 +15,9 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 	background-image:url("../img/bk.png")no-repeat ;
+img{
+    max-widght:100%;
+}
 
 li{
 	list-style: none;
